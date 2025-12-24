@@ -1,0 +1,7 @@
+{
+  "name": "MzaniGo: SA Transit & Taxi Hub",
+  "description": "A comprehensive public transport navigation app for South Africa, bridging the gap between formal bus schedules and the informal minibus taxi network.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
